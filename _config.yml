@@ -1,20 +1,13 @@
-# 網站的主題
 theme: jekyll-theme-minimal
 
-# 網站標題 (會顯示在瀏覽器標籤頁和網站頂部)
-title: "我的 DevOps 學習網站"
+title: "My DevOps learning website"
 
-# 網站作者 (許多主題會用到)
-author: "YOUR_NAME" # 👈 把這裡換成你的名字
+author: "HansLu"
 
-# 網站描述 (會被用在 SEO 和 meta 標籤中，幫助搜尋引擎了解你的網站)
-description: "這是我在 DevOps 課程中，使用 GitHub Pages 與 Actions 製作的作業網站。"
+description: "This is the website I created for my DevOps course using GitHub Pages and Actions."
 
-# (選填) GitHub 用戶名稱 (有些主題會自動加上 GitHub 連結)
 github:
-  username: YOUR_USERNAME # 👈 換成你的 GitHub 帳號
+  username: luhongxuan
 
-# (選填) 啟用 Jekyll 外掛
-# 這些是 GitHub Pages 支援的常用外掛
 plugins:
-  - jekyll-seo-tag # 自動產生
+  - jekyll-seo-tag
